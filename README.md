@@ -18,7 +18,7 @@
 
 ---
 
-## I'm a a Full Stack Web Developer!!
+## I'm a Full Stack Web Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to get a Web Developer Job
