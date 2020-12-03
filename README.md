@@ -24,13 +24,6 @@
 - 👯 I’m looking to get a Web Developer Job
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to bike and and walk
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-ebou-touray.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-
-
-
 
 
 ### Languages and Tools:
