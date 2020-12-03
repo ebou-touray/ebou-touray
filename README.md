@@ -40,7 +40,7 @@
 
 ---
 
-![ebou-touray GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+![ebou-touray GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebou-touray&show_icons=true)
 </details>
 
 <details>
