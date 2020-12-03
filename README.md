@@ -1,6 +1,6 @@
 ### Hi there, I'm Ebou!
 
-### Connetc with me
+### Connect with me
 
 <a target="_blank" href="https://www.linkedin.com/in/ebou-touray-01508116/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
