@@ -1,4 +1,4 @@
-###  Hi there, I'm Ebou! 👋
+###  Hi there, I'm Ebou! 👋 [website]
 
 ### Connect with me
 
@@ -43,6 +43,6 @@
 ### View my stats on Github:
 ![ebou-touray GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebou-touray&show_icons=true)
 
-
+[website]: https://ebou-touray.netlify.app/about
 
 
