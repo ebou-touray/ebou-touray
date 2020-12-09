@@ -1,4 +1,4 @@
-###  Hi there, I'm Ebou! 👋 [website]
+###  Hi there, I'm Ebou!  [website] 👋
 
 ### Connect with me
 
