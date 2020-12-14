@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking forward to getting a Web Developer Job
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to bike and and walk
+- ⚡ Fun fact: I love to bike and walk
 
 ---
 ### Languages and Tools:
