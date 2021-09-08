@@ -43,6 +43,6 @@
 ### View my stats on Github:
 ![ebou-touray GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebou-touray&show_icons=true)
 
-[website]: https://ebou-touray.netlify.app/
+[website]: https:https://eboutouray.netlify.app/
 
 
