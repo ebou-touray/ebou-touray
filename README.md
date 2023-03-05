@@ -20,9 +20,9 @@
 
 ## I'm a Full Stack Web Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking forward to getting a Web Developer Job
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m a Quality Assurance Engineer 🤣
+- 👯 Knowledgeable in both manual and automation testing
+- 🥅 Automation frameworks: Robot Framework, Cypress, Selenium, Java Cucumber BDD
 - ⚡ Fun fact: I love to bike and walk
 
 ---
