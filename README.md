@@ -36,12 +36,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"></code>
-<code><img height="20" src=" https://user-images.githubusercontent.com/60345712/224573949-6b90d723-613d-4afa-9512-e36ad2df4b20.png"></code>
-
+<code><img height="20" src="https://blog.testproject.io/wp-content/uploads/2020/03/cypress.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
     
-            https://user-images.githubusercontent.com/60345712/224573949-6b90d723-613d-4afa-9512-e36ad2df4b20.png
+           
 
           
 <br />
