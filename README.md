@@ -18,7 +18,7 @@
 
 ---
 
-## I'm a Full Stack Web Developer!!
+## I'm a QA Engineer!!
 
 - 🌱 I’m a Quality Assurance Engineer 🤣
 - 👯 Knowledgeable in both manual and automation testing
