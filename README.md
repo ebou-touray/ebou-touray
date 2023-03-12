@@ -1,4 +1,4 @@
-  Hi there, I'm Ebou! A QA Engineer👋
+  Hi there, I'm Ebou!  QA Engineer👋
 
 ### Connect with me
 
