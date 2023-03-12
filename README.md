@@ -23,7 +23,7 @@
 - 🌱 With + 3 years experience in testing 🤣
 - 👯 Knowledgeable in both manual and automation testing
 - 🥅 Automation frameworks: Robot Framework, Cypress, Selenium, Java Cucumber BDD
-- ⚡ Fun fact: I love to bike and walk
+- ⚡ Fun fact: I love to biking and walking
 
 ---
 ### Languages and Tools:
