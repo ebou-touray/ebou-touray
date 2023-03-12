@@ -20,7 +20,7 @@
 
 ## I'm a QA Engineer
 
-- 🌱 I’m a Quality Assurance Engineer 🤣
+- 🌱 With + 3 years experience in testing 🤣
 - 👯 Knowledgeable in both manual and automation testing
 - 🥅 Automation frameworks: Robot Framework, Cypress, Selenium, Java Cucumber BDD
 - ⚡ Fun fact: I love to bike and walk
