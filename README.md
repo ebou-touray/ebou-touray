@@ -37,7 +37,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"></code>
 <code><img height="20" src="https://blog.testproject.io/wp-content/uploads/2020/03/cypress.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/374049/robotframework.svg"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
