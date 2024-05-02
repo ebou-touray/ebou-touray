@@ -21,7 +21,7 @@
 ## I'm a QA Engineer/Full Stack Developer
 
 - 🌱 With + 3 years experience in testing 🤣
-- 👯 Knowledgeable in both manual and automation testing
+- 👯 Knowledgeable in both manual and automation testing and Full Stack Development
 - 🥅 Automation frameworks: Robot Framework, Cypress, Selenium, Java Cucumber BDD
 - ⚡ Fun fact: I love to biking and walking
 
