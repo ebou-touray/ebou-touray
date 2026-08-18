@@ -18,7 +18,7 @@
 
 ---
 
-## I'm a QA Engineer/Full Stack Developer
+## I'm Full Stack Developer
 
 - 🌱 With + 3 years experience in testing 🤣
 - 👯 Knowledgeable in both manual and automation testing and Full Stack Development
